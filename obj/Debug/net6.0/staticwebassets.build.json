@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vUJymN6RsQ6uIDZd+3xfuASi62YhihUuKTLTiKjqitw=",
+  "Source": "apiTemplate",
+  "BasePath": "_content/apiTemplate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
